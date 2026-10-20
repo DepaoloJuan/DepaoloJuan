@@ -12,12 +12,14 @@ Técnico Universitario en Programación (UTN). Desarrollo aplicaciones web y mob
 | Frontend | React, Vite, Tailwind CSS, Framer Motion, Angular, Bootstrap |
 | Mobile | React Native, Ionic, Capacitor |
 | Backend | Node.js, Express, NestJS, JWT |
-| Datos y cloud | MongoDB, MySQL, Supabase (PostgreSQL), Firebase, Cloudflare R2, Cloudinary |
+| Datos y cloud | PostgreSQL, MongoDB, MySQL, Supabase, Firebase, Cloudflare R2, Cloudinary |
 | Deploy y herramientas | Vercel, Render, Firebase Hosting, Git, GitHub |
 
 ## Proyectos destacados
 
 **[Red social: Angular + NestJS](https://github.com/DepaoloJuan/Depaolo_Parcial_2_Progra4)**: aplicación full stack con autenticación JWT, publicaciones, likes, comentarios y perfiles, desarrollada en 4 sprints con pull requests. Angular 21, NestJS, MongoDB Atlas y Cloudinary, desplegada en Vercel y Render.
+
+**Sol Admin** *(código privado)*: sistema de gestión en producción para un centro de estética, con una clienta activa. Agenda por empleada, clientas, reportes financieros, roles, CMS de la landing, programa de fidelización con portal de clientas (login con Google), notificaciones push y un asistente de voz y texto con Gemini. Node.js, Express 5, PostgreSQL (SQL directo con `pg`), EJS y Render.
 
 **[Sol Cantero: sitio y portal de fidelización](https://github.com/DepaoloJuan/landingPageSol)**: sitio institucional y portal de clientas (sellos, historial, login con Google y email) para un centro de belleza real. React, Vite, Tailwind, PWA instalable y Firebase.
 
